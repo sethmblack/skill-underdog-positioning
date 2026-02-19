@@ -3,8 +3,8 @@ name: underdog-positioning
 description: Develop strategy for competing against dominant market incumbents by identifying and exploiting their vulnerabilities while leveraging underdog advantages.
 license: MIT
 metadata:
+  version: 1.0.5247
   author: sethmblack
-  version: 1.0.5246
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - storytelling
